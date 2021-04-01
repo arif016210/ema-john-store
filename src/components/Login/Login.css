@@ -1,0 +1,20 @@
+.login {
+    text-align: center;
+  }
+  
+  
+  
+  
+  .signup{
+    max-width: 800px;
+    margin: 0px auto;
+  
+  }
+  .signup h1{
+    margin: 50px;
+  }
+  .signup input{
+    max-width: 300px;
+    margin: 20px auto;
+    padding: 10px;
+  }
